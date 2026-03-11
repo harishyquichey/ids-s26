@@ -362,7 +362,7 @@ Please use the following table to sign up.
    02/18 | Sudarsanam, Shreya | Database operation with Structured Query Language (SQL)      
    02/25 | Sawyer, Riley | Decision Trees   
    02/25 | Faisal, Zaynab |  Import/Export Data 
-   02/25 | Tessman, Sean | Web Scraping   
+   02/25 | Tessman, Sean | Web Scraping
    03/02 | Watanabe, Sara | Random Forest
    03/02 | Jiang, Ryan | Animation   
    03/04 | Jones, Cody | Visualizing Spatial Data
