@@ -13,6 +13,9 @@ include-in-header:
 
 {{< include _markov.qmd >}}
 
+## Large Language Models
+
+{{< include _large_language_models.qmd >}}
 
 ## LLM Agents
 
